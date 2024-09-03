@@ -1423,6 +1423,7 @@ footer {
   font-size: 1.1rem;
   line-height: 0.7rem;
   letter-spacing: 0.1rem;
+  line-height: 1.3rem;
 }
 .icon2 :nth-child(2) > a {
   text-decoration: none;
@@ -1519,13 +1520,13 @@ footer {
   }
   .icons i {
     color: grey;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     padding: 0rem 0.4rem;
   }
   .icon2 {
     color: grey;
-    font-size: 1rem;
-    line-height: 0.7rem;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
     letter-spacing: 0.1rem;
   }
   .icon2 :nth-child(2) > a {
@@ -1614,18 +1615,18 @@ footer {
   }
   .icons i {
     color: grey;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     padding: 0rem 0.2rem;
   }
   .icon2 {
     color: grey;
-    font-size: 0.9rem;
-    line-height: 0.7rem;
+    font-size: 1.15rem;
+    line-height: 2rem;
     letter-spacing: 0.05rem;
   }
   .icon2 :nth-child(2) > a {
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.3rem;
     color: white;
     transition: 0.4s ease;
   }
@@ -1671,18 +1672,18 @@ footer {
   }
   .icons i {
     color: grey;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     padding: 0rem 0.2rem;
   }
   .icon2 {
     color: grey;
-    font-size: 0.8rem;
-    line-height: 0.7rem;
-    letter-spacing: 0.05rem;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
   }
   .icon2 :nth-child(2) > a {
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1.3rem;
     color: white;
     transition: 0.4s ease;
   }
@@ -1868,15 +1869,16 @@ footer {
   }
   .icon2 {
     color: grey;
-    font-size: 1rem;
-    line-height: 0.7rem;
-    letter-spacing: 0.05rem;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
   }
   .icon2 :nth-child(2) > a {
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: white;
     transition: 0.4s ease;
+    line-height: 1.3rem;
   }
   .icon2 :nth-child(2) > a:hover {
     color: orangered;
