@@ -1916,3 +1916,30 @@ footer {
     font-style: normal;
   }
 }
+@media screen and (max-width:360px){
+  .fmain > :nth-child(1) {
+    font-size: 2.4rem;
+    font-family: "Castoro", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10vh 0vw;
+    z-index: 10;
+    position: relative;
+    padding: 1rem 0rem;
+  }
+  .fmain > :nth-child(1)::before {
+    position: absolute;
+    content: "03";
+    font-size: 8rem;
+    color: rgb(205, 203, 203, 0.2);
+    top: 20%;
+    top: -45%;
+    left: -2.5%;
+    letter-spacing: 0rem;
+    z-index: -1;
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+}
