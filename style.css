@@ -38,7 +38,7 @@ nav > :nth-child(1) > p > a {
   color: white;
 }
 
-nav > :nth-child(2){
+nav > :nth-child(2) {
   display: flex;
   gap: 1.6rem;
   align-items: center;
@@ -48,13 +48,13 @@ nav > :nth-child(2){
 label {
   display: none;
 }
-nav > :nth-child(2) > :nth-child(3) > a{
+nav > :nth-child(2) > :nth-child(3) > a {
   text-decoration: none;
-  color: white; 
+  color: white;
   padding: 1rem 0rem;
   transition: 0.4s ease;
 }
-nav > :nth-child(2) > :nth-child(3) > a:hover{
+nav > :nth-child(2) > :nth-child(3) > a:hover {
   background-color: white;
   color: black;
 }
@@ -1925,7 +1925,7 @@ footer {
     font-style: normal;
   }
 }
-@media screen and (max-width:360px){
+@media screen and (max-width: 360px) {
   .fmain > :nth-child(1) {
     font-size: 2.4rem;
     font-family: "Castoro", serif;
